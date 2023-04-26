@@ -5,7 +5,7 @@ With this repository I share my experiences in rewriting a high level API shellc
 More details in my related blog post https://redops.at/en/blog/shell-we-assemble-unleashing-x86-inline-assembly-for-shellcode-execution
 
 # **Disclaimer**
-The content and all code examples in this article are for research purposes only and must not be used in an unethical context! The code used in the form of x86 inline assembly may be novel, but I make no claim to it. Most of the code comes, as so often, from **ired.team, thank you @spotheplanet for your brilliant work and sharing it with us all!**
+The content and all code examples in this article are for research purposes only and must not be used in an unethical context! The code used in the form of x86 inline assembly is not novel and I make no claim to it. Most of the code comes, as so often, from **ired.team, thank you @spotheplanet for your brilliant work and sharing it with us all!**
 
 The purpose of this blog post is not to evaluate whether there is any benefit to using x86 inline assembly in the context of EDR evasion. Rather, it is about understanding the basics of x86 inline assembly in the context of shellcode execution.
 
