@@ -22,3 +22,4 @@ The purpose of this blog post is not to evaluate whether there is any benefit to
 - https://en.wikipedia.org/wiki/Assembly_language
 - https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe
 - https://www.cs.virginia.edu/~evans/cs216/guides/x86.html
+- Kip; Irvine. Assembly Language for x86 Processors 8th Edition, Pearson, 2020
