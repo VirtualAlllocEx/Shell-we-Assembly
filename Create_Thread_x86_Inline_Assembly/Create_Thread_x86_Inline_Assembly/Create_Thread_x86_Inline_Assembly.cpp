@@ -24,7 +24,7 @@ int main() {
         mov exec, eax
 
         // Clean up the stack (4 arguments * 4 bytes each)
-        add esp, 16
+        // add esp, 16
     }
 
     // Copy shellcode into allocated memory
