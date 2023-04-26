@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Create_Thread_C++_reference_code", "Create_Thread_C++_reference_code\Create_Thread_C++_reference_code.vcxproj", "{DAD53AF5-5810-48E8-88DE-A7C214D8E39F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAD53AF5-5810-48E8-88DE-A7C214D8E39F}.Debug|x64.ActiveCfg = Debug|x64
+		{DAD53AF5-5810-48E8-88DE-A7C214D8E39F}.Debug|x64.Build.0 = Debug|x64
+		{DAD53AF5-5810-48E8-88DE-A7C214D8E39F}.Debug|x86.ActiveCfg = Debug|Win32
+		{DAD53AF5-5810-48E8-88DE-A7C214D8E39F}.Debug|x86.Build.0 = Debug|Win32
+		{DAD53AF5-5810-48E8-88DE-A7C214D8E39F}.Release|x64.ActiveCfg = Release|x64
+		{DAD53AF5-5810-48E8-88DE-A7C214D8E39F}.Release|x64.Build.0 = Release|x64
+		{DAD53AF5-5810-48E8-88DE-A7C214D8E39F}.Release|x86.ActiveCfg = Release|Win32
+		{DAD53AF5-5810-48E8-88DE-A7C214D8E39F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {294D7E0A-F5F9-42F8-862D-910E02FCCBDD}
+	EndGlobalSection
+EndGlobal
