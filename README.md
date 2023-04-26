@@ -1,6 +1,7 @@
 # Shell-we-Assembly? Unleashing Assembly for Shellcode Execution
 With this repository I share my experiences in rewriting a high level API shellcode dropper based on Windows APIs from C++ to x86 inline assembly based on MSVC syntax.
-More details in my related blog post https://redops.at/en/blog/shell-we-assemble-unleashing-x86-inline-assembly-for-shellcode-execution
+More details in my related blog post: 
+https://redops.at/en/blog/shell-we-assemble-unleashing-x86-inline-assembly-for-shellcode-execution
 
 # **Disclaimer**
 The content and all code examples in this article are for research purposes only and must not be used in an unethical context! The code used in the form of x86 inline assembly is not novel and I make no claim to it. Most of the code comes, as so often, from **ired.team, thank you @spotheplanet for your brilliant work and sharing it with us all!**
